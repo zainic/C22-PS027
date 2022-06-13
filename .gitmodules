@@ -4,3 +4,6 @@
 [submodule "PadTaniCC"]
 	path = PadTaniCC
 	url = https://github.com/pejhonmaulana/api-capstone.git
+[submodule "PadTaniApp"]
+	path = PadTaniApp
+	url = https://github.com/DickyArya01/PadTaniApp.git
